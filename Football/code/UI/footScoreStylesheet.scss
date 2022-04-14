@@ -1,0 +1,29 @@
+﻿.TeamPnl
+{
+	top:5%;
+	left : 5%;
+	flex-direction: row;
+	font-size: 32px;
+	color:white;
+	background-color : rgba(0,0,0,0.68);
+	align-items:center;
+	justify-content:center;
+	width: 200px;
+	height: 100px;
+}
+
+.TeamScoreSeparator{
+	font-size:56px;
+	color:white;
+	text-shadow: 0 0 3px black;
+}
+
+.Team1Pnl {
+	color:deepskyblue;
+	text-shadow: 0 0 1px black;
+}
+
+.Team2Pnl {
+	color: red;
+	text-shadow: 0 0 1px black;
+}
